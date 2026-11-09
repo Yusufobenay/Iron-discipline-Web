@@ -9,7 +9,7 @@ Siteyi canlıda incelemek isterseniz:
 👉 [Projeyi Görüntüle](https://Yusufobenay.github.io/Iron-discipline-Web/)
 
 ## Özellikler
-​🌗 Pure CSS Dark/Light Mode: JavaScript kullanılmadan, CSS "Checkbox Hack" yöntemiyle tasarlanmış karanlık/aydınlık tema geçişi.
+​🌗 Pure CSS Dark/Light karanlık/aydınlık tema geçişi.
 ​📱 JS-Free Mobil Menü & Responsive Tasarım: Sadece CSS kullanılarak oluşturulmuş, telefon, tablet ve masaüstü ekranlara %100 duyarlı hamburger navigasyon menüsü ve esnek grid/flex yapısı.
 ​💳 Üyelik Planları: Farklı seviyelerdeki koçluk paketleri için tasarlanmış modern fiyatlandırma kartları.
 ​📝 Blog ve Rehber: Beslenme ve antrenman tüyoları içeren estetik içerik kartları.
