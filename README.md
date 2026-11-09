@@ -12,32 +12,20 @@ Siteyi canlıda incelemek isterseniz:
 
 *( Uploading Video.Mp4.2.mp4…)*
 
+## Özellikler
+​🌗 Pure CSS Dark/Light Mode: JavaScript kullanılmadan, CSS "Checkbox Hack" yöntemiyle tasarlanmış karanlık/aydınlık tema geçişi.
+​📱 JS-Free Mobil Menü & Responsive Tasarım: Sadece CSS kullanılarak oluşturulmuş, telefon, tablet ve masaüstü ekranlara %100 duyarlı hamburger navigasyon menüsü ve esnek grid/flex yapısı.
+​💳 Üyelik Planları: Farklı seviyelerdeki koçluk paketleri için tasarlanmış modern fiyatlandırma kartları.
+​📝 Blog ve Rehber: Beslenme ve antrenman tüyoları içeren estetik içerik kartları.
+​📅 Randevu Formu: Kullanıcıların ücretsiz deneme dersi alabilmesi için tasarlanmış görsel iletişim formu.
+​📐 Modern Layout: CSS Grid ve Flexbox mimarisiyle oluşturulmuş sayfa düzeni.
 
 
-## 💻 Kullandığım Teknolojiler
-- **HTML5:** Sayfanın genel iskeleti, formlar ve bölümler.
-- **CSS3:** 
-  - Flexbox ve CSS Grid ile sayfa düzeni
-  - Gece modu (Dark mode) geçişi
-  - Buton ve görsel animasyonları
-  - Mobil uyumluluk (Media Queries)
-- **Font Awesome:** İkonlar için kullandım.
-- **Google Fonts (Nunito):** Yazı tipi için tercih ettim.
-
----
-
-## 📌 Sayfada Neler Var?
-- **Navigasyon:** Sayfa içi bölümlere kayan menü ve mobilde açılan hamburger menü.
-- **Karanlık Mod:** Sağ üstteki ampul simgesine basınca siyah/beyaz tema değişimi.
-- **Programlar ve Dersler:** Farklı antrenman çeşitlerini gösteren kartlar.
-- **Fiyatlandırma:** Üyelik paketlerinin listesi.
-- **Yorumlar:** Sporcuların geri bildirimlerinin yer aldığı kayar alan (slider).
-- **Randevu Formu:** Deneme dersi için form alanı.
-- **Beslenme Bloğu:** Beslenme tüyoları içeren blog kartları.
-
+​##💻 Kullanılan Teknolojiler
+​HTML5
+​CSS3
 ---
 
 ## 👤 Geliştirici
 - **Yusuf Oben Ay**
 - GitHub: [@Yusufobenay](https://github.com/Yusufobenay)
--
