@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/f76eec25-640c-4ba5-bcb7-86530bef0b7b
 # Iron Discipline - Fitness Web Sitesi 🏋️‍♂️
 
 Fitness ve kuvvet antrenmanları üzerine hazırladığım web arayüz projesi. Hem masaüstü hem de mobil cihazlarda sorunsuz çalışacak şekilde tasarladım.
@@ -6,7 +8,11 @@ Fitness ve kuvvet antrenmanları üzerine hazırladığım web arayüz projesi. 
 Siteyi canlıda incelemek isterseniz:  
 👉 [Projeyi Görüntüle](https://Yusufobenay.github.io/Iron-discipline-Web/)
 
----
+## 🎥 Proje Videosu
+
+*( Uploading Video.Mp4.2.mp4…)*
+
+
 
 ## 💻 Kullandığım Teknolojiler
 - **HTML5:** Sayfanın genel iskeleti, formlar ve bölümler.
