@@ -1,4 +1,4 @@
-
+## 🎥 Proje Videosu
 https://github.com/user-attachments/assets/f76eec25-640c-4ba5-bcb7-86530bef0b7b
 # Iron Discipline - Fitness Web Sitesi 🏋️‍♂️
 
@@ -7,10 +7,6 @@ Fitness ve kuvvet antrenmanları üzerine hazırladığım web arayüz projesi. 
 ##  Canlı Demo
 Siteyi canlıda incelemek isterseniz:  
 👉 [Projeyi Görüntüle](https://Yusufobenay.github.io/Iron-discipline-Web/)
-
-## 🎥 Proje Videosu
-
-*( Uploading Video.Mp4.2.mp4…)*
 
 ## Özellikler
 ​🌗 Pure CSS Dark/Light Mode: JavaScript kullanılmadan, CSS "Checkbox Hack" yöntemiyle tasarlanmış karanlık/aydınlık tema geçişi.
